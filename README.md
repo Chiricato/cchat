@@ -7,10 +7,6 @@ Secure and lightweight chat for local networks
 ```
 $ npm install c-chat -g
 ```
-... or
-```
-$ git clone https://github.com/hackwork-tymm0/c-chat.git && cd c-chat && npm install -g
-```
 
 ## How to use?
 -------------------------------------------
