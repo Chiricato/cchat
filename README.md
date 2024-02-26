@@ -1,11 +1,11 @@
-# c-chat
+# cchat
 Secure and lightweight chat for local networks
 
 ## How to install?
 -------------------------------------------
 
 ```
-$ npm install c-chat -g
+$ npm install cchat -g
 ```
 
 ## How to use?
@@ -13,12 +13,12 @@ $ npm install c-chat -g
 
 To start select the port
 ```
-$ sudo c-chat set-port=PORT_NUMBER
+$ sudo cchat set-port=PORT_NUMBER
 ```
 
 And start 
 ```
-$ c-chat start
+$ cchat start
 ```
 
 And browse your server
